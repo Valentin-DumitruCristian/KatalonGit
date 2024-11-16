@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PDPtoCheckout-DESKTOP</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d6fffa4c-cacd-4c74-808c-580b6d5dc94a</testCaseGuid>
+</TestCaseEntity>
