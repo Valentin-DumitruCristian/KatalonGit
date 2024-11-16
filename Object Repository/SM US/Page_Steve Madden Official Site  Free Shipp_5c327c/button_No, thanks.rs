@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_No, thanks</name>
+   <tag></tag>
+   <elementGuidId>b32b259c-7d9f-44e6-b757-f86ba545e420</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.geoip-no-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='geoip-banner']/div/div/div[2]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8e8279e0-44c3-4e76-bb3e-92ae5fa99c90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>geoip-no-btn</value>
+      <webElementGuid>e99eae83-7738-4382-b234-da958f175c83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No, thanks</value>
+      <webElementGuid>0bafadc1-4b49-47b0-bdcb-dc9bfac3df6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;geoip-banner&quot;)/div[@class=&quot;geoip-popup-banner&quot;]/div[@class=&quot;geoip-main-block&quot;]/div[@class=&quot;geoip-button-block&quot;]/button[@class=&quot;geoip-no-btn&quot;]</value>
+      <webElementGuid>39a7b529-93b1-4ff8-ad45-5c9df0960c36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='geoip-banner']/div/div/div[2]/button[2]</value>
+      <webElementGuid>c063a220-1cb8-49a0-b65c-4be961bd6399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes, please'])[1]/following::button[1]</value>
+      <webElementGuid>fe93be7a-5a0b-452d-958c-981cf206d452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Romania'])[2]/following::button[2]</value>
+      <webElementGuid>1b6c6e1d-d15f-491e-9d6e-91492b75477c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::button[1]</value>
+      <webElementGuid>858a038c-0587-4bb8-bf26-22c9e26b71a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Steve Madden Cookie Preferences'])[1]/preceding::button[1]</value>
+      <webElementGuid>379e643f-4d36-403a-a66b-a41efc18e732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No, thanks']/parent::*</value>
+      <webElementGuid>0ae0ed97-5e44-4ad7-a31f-0e939f989564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>c309f62b-e82a-4f56-a4cc-fd6d445cdbc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'No, thanks' or . = 'No, thanks')]</value>
+      <webElementGuid>8fe1276f-c7a4-4943-a46e-ce84c0424c99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

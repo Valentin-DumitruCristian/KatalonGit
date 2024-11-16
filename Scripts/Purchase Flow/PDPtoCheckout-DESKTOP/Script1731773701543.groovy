@@ -17,5 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://www.stevemadden.com/')
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl('https://www.stevemadden.com/')
+
+WebUI.click(findTestObject('SM US/Page_Steve Madden Official Site  Free Shipp_5c327c/button_No, thanks'))
+
+WebUI.click(findTestObject('Object Repository/SM US/button_OK'))
+
+WebUI.click(findTestObject('Object Repository/SM US/img_Search input_image_class mobile-hidden'))
+
+WebUI.click(findTestObject('Object Repository/SM US/img_Filters_product-img svelte-1keq2mf'))
+
+WebUI.click(findTestObject('Object Repository/SM US/button_Add to cart'))
+
+WebUI.click(findTestObject('Object Repository/SM US/button_Check out'))
+
+WebUI.closeBrowser()
 

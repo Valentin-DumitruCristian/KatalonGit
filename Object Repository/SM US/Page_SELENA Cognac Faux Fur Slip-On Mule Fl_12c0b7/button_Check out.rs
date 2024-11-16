@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Check out</name>
+   <tag></tag>
+   <elementGuidId>e831f82e-10a1-4c25-9bea-9e22542bce90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#CartDrawer-Checkout</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='CartDrawer-Checkout']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9fa29b68-9444-4409-a445-81097890fc8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>8a2c1e2c-9b15-475f-88ba-18ddda2c9b2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>CartDrawer-Checkout</value>
+      <webElementGuid>205ce892-f184-4a25-9455-41e9ff322c25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cart__checkout-button button</value>
+      <webElementGuid>c57a89f6-3a22-4ac8-be39-f0fd4dfa5504</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>checkout</value>
+      <webElementGuid>42c25a05-f67d-4028-914b-3934d10736fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>form</name>
+      <type>Main</type>
+      <value>CartDrawer-Form</value>
+      <webElementGuid>44d4b418-7f1c-44bf-9714-b048f0a71842</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+              Check out
+            </value>
+      <webElementGuid>db0ac4a2-def5-484a-9b10-dbd2b0644b64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CartDrawer-Checkout&quot;)</value>
+      <webElementGuid>6a006836-4c01-466f-a84b-abbce923bded</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='CartDrawer-Checkout']</value>
+      <webElementGuid>5736f535-f5f2-4d74-8735-754ef210d496</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CartDrawer']/div[2]/div[2]/div[2]/div/button</value>
+      <webElementGuid>9dda959e-abf1-498e-ae75-cce7ec824bbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='shipping'])[1]/following::button[1]</value>
+      <webElementGuid>9b2581c9-775e-47b5-ae4b-aafbccf880b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cancellation policy'])[1]/preceding::button[1]</value>
+      <webElementGuid>61c0fc5a-1cbc-4d6b-bf60-cbd4532ce13e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Arrivals'])[1]/preceding::button[2]</value>
+      <webElementGuid>fce3eee4-0150-4aab-9620-1a08658f0fae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Check out']/parent::*</value>
+      <webElementGuid>33eddd11-7647-4322-9853-2fa30eeaf23e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/button</value>
+      <webElementGuid>70be93e8-6c9e-481a-942f-b66c7d620df1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @id = 'CartDrawer-Checkout' and @name = 'checkout' and @form = 'CartDrawer-Form' and (text() = '
+              Check out
+            ' or . = '
+              Check out
+            ')]</value>
+      <webElementGuid>98906504-9bbd-49da-9c24-374c18e4417d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
