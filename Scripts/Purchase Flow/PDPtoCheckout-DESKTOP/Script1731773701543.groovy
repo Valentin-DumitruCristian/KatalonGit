@@ -23,7 +23,30 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://www.stevemadden.com/')
 
-WebUI.click(findTestObject('SM US/Page_Steve Madden Official Site  Free Shipp_5c327c/button_No, thanks'))
+try {
+    // Wait for the frame to be present
+    WebUI.waitForElementPresent(findTestObject('SM US/attentive_creative_frame'), 10)
+
+    // Switch to the frame
+    WebUI.switchToFrame(findTestObject('SM US/attentive_creative_frame'), 10)
+
+    // Wait for the close button to be clickable
+    WebUI.waitForElementClickable(findTestObject('SM US/closeIconContainer'), 10)
+
+    // Click the close button
+    WebUI.click(findTestObject('SM US/closeIconContainer'))
+}
+catch (Exception e) {
+    WebUI.waitForElementClickable(findTestObject('SM US/Page_Steve Madden Official Site  Free Shipp_5c327c/button_No, thanks'), 
+        30)
+
+    WebUI.click(findTestObject('SM US/Page_Steve Madden Official Site  Free Shipp_5c327c/button_No, thanks'))
+} 
+// Handle TimeoutException by interacting with the region popup
+finally { 
+    // Switch back to the default content
+    WebUI.switchToDefaultContent()
+}
 
 WebUI.click(findTestObject('Object Repository/SM US/button_OK'))
 
